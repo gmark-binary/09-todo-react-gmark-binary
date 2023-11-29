@@ -62,7 +62,6 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Specific Styling for Delete Button inside Todo Container */
 .todo-container .delete-container button {
   background-color: #ff3333;
   color: white;

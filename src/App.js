@@ -5,8 +5,8 @@ import NewTodo from './NewTodo';
 
 function App() {
   const [todos, setTodos] = useState([]);
-  const [sortMethod, setSortMethod] = useState('default'); // 'default', 'alphabetical', 'completion'
-  const [sortOrder, setSortOrder] = useState('asc'); // 'asc' or 'desc'
+  const [sortMethod, setSortMethod] = useState('default'); 
+  const [sortOrder, setSortOrder] = useState('asc'); 
 
   useEffect(() => {
     async function fetchData() {
