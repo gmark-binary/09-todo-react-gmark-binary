@@ -16,7 +16,101 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+#root{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 100%;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { 
+  margin: 0;
+  padding: 0;
+}
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+fieldset, img { 
+  border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+caption, th {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+q:before, q:after {
+  content: '';
+}
+
+body {
+  width: 100%;
+}
+
+abbr, acronym {
+  border: 0;
+}
+
+header {
+  font-weight: bold;
+  width: 100%;
+  background-color: #333;
+  color: white; 
+  text-align: center;
+  justify-content: center;
+  padding: 2.5% 0; 
+  margin-bottom: 5%;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; 
+  width: 100%;
+}
+
+main h2 {
+  font-size: 28px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+ul {
+  list-style: none;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100%;
+  width: auto;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
