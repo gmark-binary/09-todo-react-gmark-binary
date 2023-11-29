@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/09-todo-react-gmark-binary/static/css/main.f6ab8315.css",
-    "main.js": "/09-todo-react-gmark-binary/static/js/main.d08d539c.js",
+    "main.css": "/09-todo-react-gmark-binary/static/css/main.4d5ffbbb.css",
+    "main.js": "/09-todo-react-gmark-binary/static/js/main.b4e44bf3.js",
     "index.html": "/09-todo-react-gmark-binary/index.html",
-    "main.f6ab8315.css.map": "/09-todo-react-gmark-binary/static/css/main.f6ab8315.css.map",
-    "main.d08d539c.js.map": "/09-todo-react-gmark-binary/static/js/main.d08d539c.js.map"
+    "main.4d5ffbbb.css.map": "/09-todo-react-gmark-binary/static/css/main.4d5ffbbb.css.map",
+    "main.b4e44bf3.js.map": "/09-todo-react-gmark-binary/static/js/main.b4e44bf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ab8315.css",
-    "static/js/main.d08d539c.js"
+    "static/css/main.4d5ffbbb.css",
+    "static/js/main.b4e44bf3.js"
   ]
 }
